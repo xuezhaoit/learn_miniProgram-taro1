@@ -1,0 +1,45 @@
+.swiperV{
+    display: flex;
+}
+.swiperImg{
+    width: 30%;
+    padding: 10px;
+
+}
+.text-over{
+    overflow:hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+  
+.book-img{
+    // width: 100px;
+    width: 5rem;
+    height: 7rem;
+
+}
+
+.atDivider-div{
+    height: 1rem;
+}
+
+.book-content{
+    height: 1.3rem;
+}
+
+.acard-div{
+    border:#8f8f8f solid 2px;
+    margin: 1rem 0.5rem 0 0.5rem;
+    border-radius: 0.5rem;
+    padding: 0.7rem;
+}
+.acard-font1{
+    font-size: 1rem;
+    font-weight:bold;
+}
+
+.h_10{
+    height: 2rem;
+}
+  
+  
